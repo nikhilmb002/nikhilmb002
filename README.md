@@ -1,12 +1,11 @@
 # 👋 Nikhil M B
 
-Embedded Linux Engineer • C • Kernel • IoT
+![Typing](https://readme-typing-svg.herokuapp.com?color=00FF00&size=18&center=false&vCenter=true&width=500&lines=Embedded+Linux+Engineer;Kernel+%26+Device+Driver+Developer;C+%7C+Linux+%7C+IoT)
 
 ---
 
 ## ⚡ About
-Embedded Linux engineer with experience on ARM Cortex-A systems.  
-Focused on kernel, device drivers, and low-level system programming.
+Embedded Linux engineer working on ARM Cortex-A systems, focused on kernel, device drivers, and low-level programming.
 
 ---
 
@@ -22,8 +21,18 @@ Focused on kernel, device drivers, and low-level system programming.
 - Linux Kernel Modules & Device Drivers  
 - GPIO, IOCTL, Interrupt Handling  
 - Boot Flow (U-Boot), BSP, Cross Compilation  
-- Multithreading (pthreads, mutex, sync)  
-- TCP/IP, Socket Programming     
+- Multithreading (pthreads, mutex, synchronization)  
+- TCP/IP, Socket Programming  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhilmb002&show_icons=true&hide_border=true)
+
+---
+
+## 🔥 Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikhilmb002)
 
 ---
 
