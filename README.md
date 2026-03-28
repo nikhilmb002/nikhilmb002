@@ -27,11 +27,6 @@ Focused on kernel, device drivers, and low-level system programming.
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhilmb002&show_icons=true&hide_border=true)
-
----
-
 ## 📫 Contact
 - LinkedIn: https://linkedin.com/in/nikhil-mb  
 - Email: nikhilmb002@gmail.com
