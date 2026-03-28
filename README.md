@@ -39,3 +39,7 @@ Embedded Linux engineer working on ARM Cortex-A systems, focused on kernel, devi
 ## 📫 Contact
 - LinkedIn: https://linkedin.com/in/nikhil-mb  
 - Email: nikhilmb002@gmail.com
+
+---
+
+![Snake animation](https://github.com/nikhilmb002/nikhilmb002/blob/output/github-contribution-grid-snake.svg)
